@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="todolistappapihao" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\haobui\\Desktop\\haor3\\HaoBui-RBC-Assignment-Demo\\HaoBui-RBC-Assignment\\ToDoListAppApi\\ToDoListAppApi\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
