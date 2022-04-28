@@ -42,15 +42,15 @@
           "dependencies": {
             "Azure.Extensions.AspNetCore.Configuration.Secrets": {
               "target": "Package",
-              "version": "[1.0.0, )"
+              "version": "[1.2.2, )"
             },
             "Azure.Identity": {
               "target": "Package",
-              "version": "[1.4.0, )"
+              "version": "[1.6.0, )"
             },
             "Microsoft.ApplicationInsights.AspNetCore": {
               "target": "Package",
-              "version": "[2.15.0, )"
+              "version": "[2.20.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -78,13 +78,9 @@
               "target": "Package",
               "version": "[6.0.3, )"
             },
-            "Microsoft.Web.Deployment": {
-              "target": "Package",
-              "version": "[4.0.5, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.3.0, )"
+              "version": "[6.3.1, )"
             }
           },
           "imports": [

@@ -592,9 +592,7 @@ C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\T
 C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
 C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
-C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
 C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
 C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
@@ -611,9 +609,6 @@ C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\T
 C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\Microsoft.Web.Delegation.dll
-C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\Microsoft.Web.Deployment.Tracing.dll
-C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\Microsoft.Web.Deployment.dll
 C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\bin\Debug\net6.0\NuGet.Common.dll

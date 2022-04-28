@@ -4,10 +4,6 @@
       "type": "secrets",
       "connectionId": "VaultUri"
     },
-    "mssql2": {
-      "type": "mssql",
-      "connectionId": "ConnectionStrings:DefaultConnection"
-    },
     "appInsights1": {
       "type": "appInsights",
       "connectionId": "APPLICATIONINSIGHTS_CONNECTION_STRING"
