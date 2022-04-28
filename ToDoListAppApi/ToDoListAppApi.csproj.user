@@ -11,7 +11,7 @@
     <WebStackScaffolding_DbContextTypeFullName>ToDoListAppApi.Models.ToDoListDBContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <ActiveDebugProfile>ToDoListAppApi</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\Properties\PublishProfiles\ToDoListAppApi20220428105028 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\haobui\Desktop\haor3\HaoBui-RBC-Assignment-Demo\HaoBui-RBC-Assignment\ToDoListAppApi\ToDoListAppApi\Properties\PublishProfiles\ToDoListAppApi20220428121035 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
